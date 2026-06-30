@@ -1,0 +1,22 @@
+[
+  {
+    "name": "UMKM Kue Tradisional",
+    "desc": "Website UMKM Toko Kue Tradisional dengan fitur dashboard penjual, menu kue, rekening, dan kelola pesanan. Deployed di Vercel.",
+    "image": "umkmkue-live.png",
+    "category": "basicweb",
+    "links": {
+      "view": "https://kue-tradisional.vercel.app",
+      "code": "https://github.com/lifrmn/UMKM-Kue-Tradisional"
+    }
+  },
+  {
+    "name": "Website Kucing Polewali Mandar",
+    "desc": "Website layanan perawatan kucing terbaik di Polewali Mandar. Dilengkapi fitur produk, booking, pesanan, dan tips kesehatan.",
+    "image": "kucingpolewali-live.png",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/lifrmn/Website-Kucing-Polewali-Mandar",
+      "code": "https://github.com/lifrmn/Website-Kucing-Polewali-Mandar"
+    }
+  }
+]
