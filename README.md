@@ -3,7 +3,7 @@
 Website portfolio pribadi untuk menampilkan profil, skill, pendidikan, pengalaman, dan daftar project.
 
 <p align="center">
-	<img src="./assets/images/hero.png" alt="Portfolio Hero" width="100%" />
+	<img src="./assets/images/foto-saya.jpg" alt="Portfolio Hero" width="40%" />
 </p>
 
 ## Teknologi
@@ -57,38 +57,26 @@ Untuk project ini (static site), Netlify adalah opsi paling cepat dan stabil.
 <table>
 	<tr>
 		<td align="center" width="50%">
-			<img src="./assets/images/profile/profile-photo.jpg" alt="Profile" width="100%" />
+			<img src="./assets/images/foto-saya.jpg" alt="Profile" width="100%" />
 			<br/>
 			<sub><b>Profile</b></sub>
 		</td>
 		<td align="center" width="50%">
-			<img src="./assets/images/educat/college.jpg" alt="Education" width="100%" />
+			<img src="./assets/images/educat/unismuh.png" alt="Education" width="100%" />
 			<br/>
-			<sub><b>Education</b></sub>
+			<sub><b>Universitas Muhammadiyah Makassar</b></sub>
 		</td>
 	</tr>
 	<tr>
 		<td align="center" width="50%">
-			<img src="./assets/images/projects/portfolio1.png" alt="Portfolio Project" width="100%" />
+			<img src="./assets/images/projects/umkmkue-live.png" alt="UMKM Kue Tradisional" width="100%" />
 			<br/>
-			<sub><b>Portfolio Project</b></sub>
+			<sub><b>UMKM Kue Tradisional</b></sub>
 		</td>
 		<td align="center" width="50%">
-			<img src="./assets/images/projects/foodwebsite.png" alt="Food Website Project" width="100%" />
+			<img src="./assets/images/projects/kucingpolewali-live.png" alt="Website Kucing Polewali Mandar" width="100%" />
 			<br/>
-			<sub><b>Food Website Project</b></sub>
-		</td>
-	</tr>
-	<tr>
-		<td align="center" width="50%">
-			<img src="./assets/images/projects/instagrammern.png" alt="Instagram MERN Project" width="100%" />
-			<br/>
-			<sub><b>Instagram MERN Project</b></sub>
-		</td>
-		<td align="center" width="50%">
-			<img src="./assets/images/projects/hulu.png" alt="Hulu Clone Project" width="100%" />
-			<br/>
-			<sub><b>Hulu Clone Project</b></sub>
+			<sub><b>Website Kucing Polewali Mandar</b></sub>
 		</td>
 	</tr>
 </table>
