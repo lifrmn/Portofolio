@@ -46,5 +46,9 @@
     {
         "name": "Figma",
         "icon": "https://img.icons8.com/color/48/000000/figma--v1.png"
+    },
+    {
+        "name": "Canva",
+        "icon": "https://img.icons8.com/color/48/000000/canva.png"
     }
 ]
